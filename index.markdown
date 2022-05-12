@@ -15,7 +15,7 @@ layout: page
 }
 </style>
 
-<img class="profile" src="public/profile_256x256.png" height=200em />
+<img class="profile" src="public/profile_256x256.png" height=150em />
 
 <p style='text-align: justify'>
 
